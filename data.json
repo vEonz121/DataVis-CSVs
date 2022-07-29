@@ -1,0 +1,126 @@
+{
+  "children": [
+    {
+      "name": "Malaysia",
+      "children": [
+        { "name": "Ipoh", "group": "Perak", "value": 28, "colname": "level3" },
+        {
+          "name": "George Town",
+          "group": "Penang",
+          "value": 19,
+          "colname": "level3"
+        },
+        {
+          "name": "Miri",
+          "group": "Sarawak",
+          "value": 18,
+          "colname": "level3"
+        },
+        {
+          "name": "Kuching",
+          "group": "Sarawak",
+          "value": 19,
+          "colname": "level3"
+        }
+      ],
+      "colname": "level2"
+    },
+    {
+      "name": "Indonesia",
+      "children": [
+        {
+          "name": "Jakarta",
+          "group": "Java",
+          "value": 28,
+          "colname": "level3"
+        },
+        {
+          "name": "Surabaya",
+          "group": "Java",
+          "value": 19,
+          "colname": "level3"
+        },
+        {
+          "name": "Makassar",
+          "group": "Sulawesi",
+          "value": 18,
+          "colname": "level3"
+        },
+        {
+          "name": "Pekanbaru",
+          "group": "Sumatra",
+          "value": 19,
+          "colname": "level3"
+        }
+      ],
+      "colname": "level2"
+    },
+    {
+      "name": "Singapore",
+      "children": [
+        {
+          "name": "Bukit Merah",
+          "group": "Central Region",
+          "value": 25,
+          "colname": "level3"
+        },
+        {
+          "name": "Bukit Timah",
+          "group": "Central Region",
+          "value": 11,
+          "colname": "level3"
+        },
+        {
+          "name": "Bedok",
+          "group": "East Region",
+          "value": 15,
+          "colname": "level3"
+        },
+        {
+          "name": "Changi",
+          "group": "East Region",
+          "value": 16,
+          "colname": "level3"
+        }
+      ],
+      "colname": "level2"
+    },
+    {
+      "name": "Japan",
+      "children": [
+        {
+          "name": "Nakano",
+          "group": "Tokyo",
+          "value": 10,
+          "colname": "level3"
+        },
+        {
+          "name": "Toshima",
+          "group": "Tokyo",
+          "value": 13,
+          "colname": "level3"
+        },
+        {
+          "name": "Meguro",
+          "group": "Tokyo",
+          "value": 13,
+          "colname": "level3"
+        },
+        {
+          "name": "Toyonaka",
+          "group": "Osaka",
+          "value": 25,
+          "colname": "level3"
+        },
+        {
+          "name": "Osaka",
+          "group": "Osaka",
+          "value": 16,
+          "colname": "level3"
+        }
+      ],
+      "colname": "level2"
+    }
+  ],
+  "name": "Asia"
+}
